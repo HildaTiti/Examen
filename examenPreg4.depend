@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1499367121 source:c:\archivos marcela\examen final\hildaaaaaa\examenpreg4\main.cpp
+	<iostream>
+	"Duo.h"
+
+1499369910 c:\archivos marcela\examen final\hildaaaaaa\examenpreg4\duo.h
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<algorithm>
+	<iostream>
+	<numeric>
+	<set>
+
